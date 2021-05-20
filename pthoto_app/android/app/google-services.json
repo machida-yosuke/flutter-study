@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "626793410864",
+    "project_id": "photo-app-6db8b",
+    "storage_bucket": "photo-app-6db8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626793410864:android:e6f9641f5af8004cc998f5",
+        "android_client_info": {
+          "package_name": "dev.flutterstudy.pthoto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626793410864-63bs8qvlt2167cupg71g1b9mc8plbcvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNC88MFy13leo5mY3lehWo625RXDkRUNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626793410864-63bs8qvlt2167cupg71g1b9mc8plbcvp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "626793410864-ou6r2minjmqlq91uhu42h41dn4sosme8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.flutterstudy.pthotoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
